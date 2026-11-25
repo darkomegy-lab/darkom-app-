@@ -1,0 +1,10 @@
+{
+  "appId": "com.darkom.gypsumpro",
+  "appName": "داركم للجبس بورد",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true,
+    "backgroundColor": "#14351D"
+  }
+}

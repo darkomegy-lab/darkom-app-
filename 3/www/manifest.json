@@ -1,0 +1,26 @@
+{
+  "name": "داركم للجبس بورد | DARKOM GYPSUM PRO",
+  "short_name": "داركم للجبس",
+  "description": "داركم للجبس بورد - أسعار باقات الأسقف المعلقة والحوائط والسيمنت بورد وبلاطات 60x60 وحاسبة الصنايعي 2D والمقايسات.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14351D",
+  "theme_color": "#14351D",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
